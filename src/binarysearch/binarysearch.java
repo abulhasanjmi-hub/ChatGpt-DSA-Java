@@ -1,5 +1,5 @@
 package binarysearch;
-
+//  I am just commenting so can check how git keeps tacking our commits
 public class binarysearch {
     public static void main(String[] args){
         int[] arr = {1,2,3,4,5,6,7,8,9};
