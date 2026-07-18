@@ -13,8 +13,7 @@ System.out.print("First Occurance" +" "+result);
     else{   
 int mid= low+(high-low)/2;
 if(arr[mid]==target){
-int left=-1;
- left=FirstOccurance(arr, low, mid-1, target);
+ int left=FirstOccurance(arr, low, mid-1, target);
 if(left!=-1)
     return left;
 else
