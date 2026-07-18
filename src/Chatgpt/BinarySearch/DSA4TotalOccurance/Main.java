@@ -1,4 +1,4 @@
-package Chatgpt.BinarySearch.DSA4Occurance;
+package Chatgpt.BinarySearch.DSA4TotalOccurance;
 
 public class Main {
     public static void main(String[] args){
